@@ -2,4 +2,12 @@ header {
     text-align: center;
     margin-top: 5px;
 }
+table {
+    text-align: center;
+    margin: 20px;
+}
+
+td {
+    text-align: center;
+} 
 
