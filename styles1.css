@@ -3,14 +3,14 @@ header {
     margin-top: 5px;
 }
 
-/* table , td {
+table {
+    width: 100%;
+    height: auto;
     
-    border: 1px solid;
-    border-collapse: collapse;
-    
-} */
+}
 
-/* #formDataCell {
-    padding-right: 1px; 
-} */
-
+img {
+    width: 1320px;
+    max-height: 500px;
+    align-self: center;
+}
